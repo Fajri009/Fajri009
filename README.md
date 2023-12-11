@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fajri Rayrahman Harlan</h1>
-<h3 align="center">A passionate Android Developer from Indonesia</h3>
+<h3 align="center">A passionate Android Developer</h3>
 
 - 🌱 I’m currently learning **Android Developer such as Kotlin, Jetpack Compose, Firebase, and Ktor**
 
